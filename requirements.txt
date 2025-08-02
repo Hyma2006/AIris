@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+SpeechRecognition
+python-dotenv
+requests
+transformers
